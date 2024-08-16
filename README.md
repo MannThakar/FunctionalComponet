@@ -1,3 +1,5 @@
+### GitHub Documentation for Parent-Child Component Interaction
+
 ---
 
 ## Overview
@@ -61,27 +63,3 @@ Key Features:
    Open your browser and navigate to `http://localhost:3000`.
 
 ---
-
-## Contributing
-
-Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-## Contact
-
-For any questions or feedback, please feel free to reach out.
-
----
-
-By following this documentation, you should have a clear understanding of how to interact with the components. The application showcases basic yet effective parent-child component communication in React.
-
----
-
-**Note:** Replace `yourusername` and `your-repo-name` with the appropriate GitHub username and repository name.
